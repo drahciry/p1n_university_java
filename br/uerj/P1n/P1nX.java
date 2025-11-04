@@ -1,5 +1,14 @@
+// Package
+package br.uerj.P1n;
+
 // Importacoes uteis ao programa
 import java.util.Scanner;
+
+// Importacoes de models
+import br.uerj.P1n.models.*;
+
+// Importacoes de excecoes
+import br.uerj.P1n.exceptions.*;
 
 /**
  * Classe do programa principal do projeto.

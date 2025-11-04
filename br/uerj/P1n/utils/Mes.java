@@ -1,3 +1,6 @@
+// Package
+package br.uerj.P1n.utils;
+
 /**
  * Enumerate para mes. Cada mes possui um valor inteiro associado,
  * que vai de 1 a 12, na mesma ordem em que os meses decorrem.

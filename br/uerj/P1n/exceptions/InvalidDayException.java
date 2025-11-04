@@ -1,3 +1,6 @@
+// Package
+package br.uerj.P1n.exceptions;
+
 /**
  * Classe de excecao customizada para dias que nao sejam validos ou nao existam.
  * 

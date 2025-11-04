@@ -1,3 +1,6 @@
+// Package
+package br.uerj.P1n.exceptions;
+
 /**
  * Classe de excecao customizada para CPFs que possuam um formato invalido
  * ou que tenha digitos verificadores incorretos.

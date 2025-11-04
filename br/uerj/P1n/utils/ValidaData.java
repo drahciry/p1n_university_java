@@ -1,5 +1,13 @@
+// Package
+package br.uerj.P1n.utils;
+
 // Importaçoes uteis a classe
 import java.time.LocalDate;
+
+// Importacoes de excecoes
+import br.uerj.P1n.exceptions.InvalidDayException;
+import br.uerj.P1n.exceptions.InvalidMonthException;
+import br.uerj.P1n.exceptions.InvalidYearException;
 
 /**
  * Classe com metodos estaticos voltados para a validaçao de data, com metodos como:

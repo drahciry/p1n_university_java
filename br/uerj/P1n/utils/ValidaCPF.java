@@ -1,5 +1,11 @@
+// Package
+package br.uerj.P1n.utils;
+
 // Importacoes uteis a classe
 import java.util.regex.Pattern;
+
+// Importacoes de excecoes
+import br.uerj.P1n.exceptions.InvalidCpfException;
 
 /**
  * Classe com metodos estaticos voltados para a validacao de CPF, com metodos como:

@@ -1,3 +1,6 @@
+// Package
+package br.uerj.P1n.exceptions;
+
 /**
  * Classe de excecao customizada para alturas que nao sejam validas ou nao existam.
  * 

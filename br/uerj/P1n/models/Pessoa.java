@@ -1,7 +1,16 @@
+// Package
+package br.uerj.P1n.models;
+
 // Importacoes uteis a classe
 import java.util.regex.Pattern;
 import java.time.LocalDate;
 import java.time.Period;
+
+// Importacoes de utils
+import br.uerj.P1n.utils.*;
+
+// Importacoes de Excecoes
+import br.uerj.P1n.exceptions.*;
 
 /**
  * Classe que representa uma pessoa.

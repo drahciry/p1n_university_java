@@ -1,3 +1,6 @@
+// Package
+package br.uerj.P1n.models;
+
 /**
  * Classe que representa uma mulher, extensão de uma pessoa.
  * Possue atributos como:
